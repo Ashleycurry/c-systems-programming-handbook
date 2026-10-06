@@ -1,6 +1,6 @@
 # C Programming Notes
 
-[中文](README.md)
+[中文](README.md) | [English](README-English.md)
 
 This repository contains a progressive set of C programming notes. It starts with programming fundamentals and development tools, then moves through core C syntax, data types, pointers, dynamic memory, and file operations.
 

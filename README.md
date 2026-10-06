@@ -1,6 +1,6 @@
 # C 语言学习笔记
 
-[English](README-English.md)
+[中文](README.md) | [English](README-English.md)
 
 本仓库整理了一套循序渐进的 C 语言学习笔记，内容从编程基础和开发环境开始，逐步介绍 C 语言的核心语法、数据类型、指针、动态内存和文件操作。
 
